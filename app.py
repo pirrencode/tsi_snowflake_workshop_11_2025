@@ -9,7 +9,7 @@ import streamlit as st
 # or .snowflake/connections.toml
 conn = st.connection("snowflake")
 
-st.title("Snowflake Database Query")
+st.title("Snowflake Database Query 2025")
 st.write("This application connects to Snowflake and queries data from a table.")
 
 # STEP 2. QUERY SINGLE TABLE (SELECT * FROM MYDB)
